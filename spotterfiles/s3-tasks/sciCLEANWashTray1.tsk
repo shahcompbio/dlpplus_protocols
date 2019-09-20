@@ -1,0 +1,204 @@
+0	Drives		8	WasteStation1	6500	8000	25000	25000	25000	15000																																			
+7	Syringe Pump		0.0/1.0/0.0/40.0/17.0/0.0/1.0																																										
+7	Syringe Pump		1.0/1.0/0.0/40.0/17.0/0.0/1.0																																										
+0	Drives		17	WashTray1	5929	29565	31445	25000	25000	5000																																			
+7	Syringe Pump		0.0/0.0/0.0/40.0/2.0/500.0/0.0																																										
+7	Syringe Pump		1.0/0.0/0.0/40.0/2.0/500.0/0.0																																										
+1	I/O		1	DOutput1	Wash Pump	ON	0																																						
+0	Drives		4	WashStation1	4086	10902	31150	25000	25000	10000																																			
+0	Drives		5	WashStation1Up	5257	12963	21884	25000	25000	15000																																			
+0	Drives		4	WashStation1	5256	12963	32000	25000	25000	15000																																			
+3	Wait		2000																																										
+0	Drives		3	CameraStation	35298	6142	22553	30000	30000	12000																																			
+1	I/O		1	DOutput1	Wash Pump	OFF	0																																						
+3	Wait		6000																																										
+2	Piezo		S_N	No. of Drops	10000																																								
+3	Wait		2000																																										
+2	Piezo		S_N	No. of Drops	5000																																								
+3	Wait		5000																																										
+2	Piezo		S_N	No. of Drops	5000																																								
+1	I/O		1	DOutput1	Wash Pump	ON	0																																						
+0	Drives		8	WasteStation1	6500	8000	25000	25000	25000	15000																																			
+7	Syringe Pump		0.0/1.0/0.0/750.0/18.0/0.0/1.0																																										
+3	Wait		3000																																										
+0	Drives		4	WashStation1	5457	13065	30849	25000	25000	15000																																			
+2	Piezo		S_N	Ultrasonics	0																																								
+3	Wait		10000																																										
+2	Piezo	StopUltrasonic	S_N	Stop	0																																								
+7	Syringe Pump		1.0/1.0/0.0/750.0/18.0/0.0/1.0																																										
+0	Drives		3	CameraStation	35298	6142	22553	30000	30000	12000																																			
+1	I/O		1	DOutput1	Wash Pump	OFF	0																																						
+3	Wait		6000																																										
+2	Piezo		S_N	No. of Drops	250																																								
+3	Wait		2000																																										
+2	Piezo		S_N	No. of Drops	2500																																								
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													

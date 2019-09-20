@@ -1,0 +1,40 @@
+4	Message		1- Connect flush bottle to manifold     	OK																																						
+1	I/O		1	DOutput1	Wash Pump	ON	0																																			
+3	Wait		45000																																							
+1	I/O		1	DOutput1	Wash Pump	OFF	0																														
+7	Syringe Pump		0.0/1.0/0.0/8000.0/120.0/0.0/0.0																																							
+7	Syringe Pump		1.0/1.0/0.0/8000.0/120.0/0.0/0.0																																							
+0	Drives	MoveToWasteStation	6	WasteStation1	5928	6568	20986	30000	30000	15000																																
+4	Message		1- Disconnect flush bottle                                                                              2- After clicking OK, wait until first drop has left the manifold then open the door and connect the nozzle.     	OK	
+7	Syringe Pump		0.0/1.0/0.0/250.0/80.0/0.0/0.0																																							
+7	Syringe Pump		1.0/1.0/0.0/250.0/80.0/0.0/0.0																																							
+1	I/O		1	DOutput1	Wash Pump	ON	0		
+7	Syringe Pump		0.0/1.0/0.0/2250.0/16.0/0.0/0.0																																							
+3	Wait		10000																																							
+2	Piezo		S_N	No. of Drops	8000																																					
+3	Wait		20000																																							
+2	Piezo		S_N	No. of Drops	8000																																					
+7	Syringe Pump		1.0/1.0/0.0/2250.0/16.0/0.0/0.0	
+1	I/O		1	DOutput1	Wash Pump	OFF	0																																						
+7	Syringe Pump		0.0/1.0/0.0/500.0/17.0/500.0/1.0																																							
+1	I/O		1	DOutput1	Wash Pump	ON	0
+3	Wait		3000																																							
+0	Drives		4	WashStation1	5927	11569	28973	25000	25000	10000																																
+2	Piezo		S_N	Ultrasonics	0																																					
+3	Wait		8000																																							
+2	Piezo		S_N	Stop	0
+3	Wait		8000
+2	Piezo		S_N	Ultrasonics	0
+3	Wait		8000	
+2	Piezo		S_N	Stop	0																																				
+7	Syringe Pump	WaitOfDone	1.0/1.0/0.0/500.0/15.0/500.0/1.0																																							
+1	I/O		1	DOutput1	Wash Pump	OFF	0
+0	Drives		3	CameraStation	38000	6000	21500	25000	25000	15000		
+3	Wait		8000	
+2	Piezo		S_N	No. of Drops	300																																					
+3	Wait		2000																																							
+2	Piezo		S_N	No. of Drops	3000																																					
+3	Wait		2000																																							
+1	I/O	Blue LED	1	DOutput10	BlueLED 24V	OFF	0											
+5	Function		Auto Drop Detection	3	C:\Images	§Prime_NoDropMessage	500/0/0/200/1/0/0	1
+4	Message		System is now ready to use.                                                                              Have a nice spotting!		OK

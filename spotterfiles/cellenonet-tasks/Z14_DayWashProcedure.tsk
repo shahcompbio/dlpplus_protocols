@@ -1,0 +1,206 @@
+0	Drives		2	Home	0	0	0	100000	100000	15000																																																																																				
+4	Message		Please do the following:                                                                                                   1- Dismount nozzles                                                                                                                                                                                                            2- Attach Flush Bottle                                                                                                                           3- Remove System Lquid  bottle	OK																																																																																										
+7	Syringe Pump		0.0/1.0/0.0/2000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/2000.0/120.0/0.0/0.0																																																																																											
+4	Message		Please connect the system with the 70% ethanol bottle (Particle free).                                                     This will take 20 minutes	OK																																																																																										
+7	Syringe Pump		0.0/1.0/0.0/5000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/5000.0/120.0/0.0/0.0																																																																																											
+3	Wait		300000																																																																																											
+7	Syringe Pump		0.0/1.0/0.0/5000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/5000.0/120.0/0.0/0.0																																																																																											
+3	Wait		300000																																																																																											
+7	Syringe Pump		0.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+3	Wait		300000																																																																																											
+7	Syringe Pump		0.0/1.0/0.0/6000.0/60.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/6000.0/60.0/0.0/0.0																																																																																											
+4	Message		Please remove ethanol bottle and replace with freshly degased particle-free water.	OK																																																																																										
+7	Syringe Pump		0.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+4	Message		Please remove system liquid bottle and let system flush with air.	OK																																																																																										
+7	Syringe Pump		0.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+4	Message		Please reattach system liquid bottle and flush system with System Liquid.	OK																																																																																										
+7	Syringe Pump		0.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+4	Message		If the system will be not used for over 5 days. please remove System Liquid bottle and flush system with air. otherwise keep System Liquid connected.	OK																																																																																										
+7	Syringe Pump		0.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+7	Syringe Pump		1.0/1.0/0.0/6000.0/120.0/0.0/0.0																																																																																											
+4	Message		Please remove the tube from the Fresh Water wash container and place it in a bottle with 70% Ethanol.																																																																																											
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														
+																																																																																														

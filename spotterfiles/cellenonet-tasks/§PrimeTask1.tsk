@@ -1,0 +1,4 @@
+0	Drives		2	Home	0	0	0	60000	60000	15000										
+4	Message		1- Refresh System & Wash Liquid         2- Insert PDCs into Head and mount head firmly to axis but DO NOT connect PDC tubing.        3- Align PDCs to green cross and include the specific parameters then SET NOZZLE PARAMETERS.          4- When done, click Continue.	OK																
+0	Drives		3	CameraStation	35216	6093	20727	25000	25000	15000										
+5	Function		Nozzle Setup	0																

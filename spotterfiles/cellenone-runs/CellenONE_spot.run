@@ -1,0 +1,2 @@
+BeginLoop	AutoCellDetection	SpotProbeRun	EndLoop	MoveHome
+Only SPOTTEN, MoveHome				

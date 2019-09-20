@@ -1,0 +1,21 @@
+0	Drives		0	Probe	79991	106787	21500	15000	20000	15000																																																																																				
+7	Syringe Pump		0.0/0.0/0.0/15.0/1.0/500.0/0.0																																																																																											
+7	Syringe Pump		1.0/0.0/0.0/15.0/1.0/500.0/0.0																																																																																											
+3	Wait		1000																																																																																											
+1	I/O		1	DOutput1	Wash Pump	ON	0																																																																																							
+0	Drives		4	WashStation1	5927	11569	28973	25000	25000	10000																																																																																				
+0	Drives		5	WashStation1Up	5927	11569	21986	25000	25000	15000																																																																																				
+0	Drives		4	WashStation1	5927	11569	28973	25000	25000	10000																																																																																				
+3	Wait		2000																																																																																											
+0	Drives		5	WashStation1Up	5927	11569	21986	25000	25000	15000																																																																																				
+0	Drives		4	WashStation1	5927	11569	28973	25000	25000	10000																																																																																				
+0	Drives		5	WashStation1Up	5927	11569	21986	25000	25000	15000																																																																																				
+1	I/O		1	DOutput1	Wash Pump	OFF	0																																																																																							
+0	Drives		3	CameraStation	37101	1548	20916	20000	20000	5000																																																																																				
+3	Wait		5000																																																																																											
+2	Piezo	PreSpot250Drops	S_N	No. of Drops	250																																																																																									
+3	Wait		2000																																																																																											
+2	Piezo	PreSpot250Drops	S_N	No. of Drops	250																																																																																									
+1	I/O	BlueLED	1	DOutput8	BlueLED 24V	OFF	0																																																																																							
+3	Wait		2000																																																																																											
+5	Function		Auto Drop Detection	3	C:\Images		500/0/0/150/1/1/2	3																																																																																						

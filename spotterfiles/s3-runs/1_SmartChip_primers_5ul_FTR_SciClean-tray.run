@@ -1,0 +1,2 @@
+FTRP_SmartChip_1ref_pt-new	WashFlush_Medium	BeginLoop	TakeProbe_5ul	DipWashStation1	OpenSnapWindow	MoveToCameraStation	Wait8sec	PreSpot500drops	Wait3sec	PreSpot250drops	Wait1sec	AutoDropDetection_Dropvol	SpotProbeRun	AutoDropDetection_Dropvol	WashFlush_Strong	sciCLEANWashTray1	WashFlush_Light	EndLoop	WashFlush_Medium	MoveHome
+																				

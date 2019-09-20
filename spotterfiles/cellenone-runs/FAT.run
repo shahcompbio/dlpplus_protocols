@@ -1,0 +1,2 @@
+BeginLoop	TakeProbe8ul_1ulps	DipWashStation1	OpenSnapWindow	MoveToCameraStation	Wait8sec	PreSpot250drops	Wait5sec	PreSpot250drops	Wait3sec	AutoDropDetection	SpotProbeRun	AutoDropDetection	Wash_Flush200ul_10ulps_US	EndLoop	MoveHome
+															

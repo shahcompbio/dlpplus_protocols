@@ -1,0 +1,2 @@
+Vacuum_ON	BeginLoop	TakeProbe8ul_1ulps	DipIntoWashStation1	OpenSnapWindow	MoveToCameraStation	Wait8sec	PreSpot250drops	Wait5sec	PreSpot250drops	Wait3sec	AutoDropDetectionDropVolume	SpotProbeRun	AutoDropDetectionDropVolume	Wash_Flush200ul_10ulps_US	EndLoop	HeadCameraLight_ON	QC	MoveHome	Vacuum_OFF
+																			

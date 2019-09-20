@@ -1,0 +1,2 @@
+BeginLoop	SpotProbeRun	EndLoop	Wait1sec	HeadCameraLight_ON	QC	MoveHome
+Only SPOTTEN, MoveHome						
